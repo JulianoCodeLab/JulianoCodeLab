@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hello, I'm Juliano! 👋
 
-<!--
-**JulianoCodeLab/JulianoCodeLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I currently work with infrastructure and network security.
+- 🌱 I study analysis and systems development.
+<div>
+  <a href= "https://github.com/JulianoCodeLab">
+    <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoCodeLab&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCodeLab&layout=compact&langs_count=16&theme=dark"/>
+</div>
+    
+<div>
+    <img align = "center" alt = "J-CPP" height = "50" Wwidth = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img  align = "center" alt = "J-C" height = "50" Wwidth = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img align = "center" alt = "J-Java" height = "50" Wwidth = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img align = "center" alt = "J-Python" height = "50" Wwidth = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+    <img align = "center" alt = "J- MySql" height = "50" Wwidth = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />                          
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+<a href = "mailto:gestaojuliano99@gmail.com" ><img margin top = "50" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "https://api.whatsapp.com/send?phone=5512996290196"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/juliano-ambrósio-4063042a3/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "https://julianocodelab.github.io/meu-portifolio/index.html"><img src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JulianoCodeLab/JulianoCodeLabr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JulianoCodeLab/JulianoCodeLaboutput/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JulianoCodeLab/JulianoCodeLaboutput/github-contribution-grid-snake.svg">
+</picture>
