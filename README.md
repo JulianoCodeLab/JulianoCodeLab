@@ -14,12 +14,15 @@
 ##
 
 <div>
-    <img align="center" alt="Juliano-Py" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-    <img align="center" alt="Juliano-ipynb" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-    <img align="center" alt="Juliano-JAVA" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-    <img align="center" alt="Juliano-Myslq" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-    <img align="center" alt="Juliano-Linux" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-    <img align="center" alt="Juliano-Ubunto" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+    <img align="center" alt="Juliano.html" heght="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
+    <img align="center" alt="Juliano.css" heght="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
+    <img align="center" alt="Juliano.c" heght="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" />
+    <img align="center" alt="Juliano.cpp" heght="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" />
+    <img align="center" alt="Juliano-JAVA" heght="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
+    <img align="center" alt="Juliano-JAVA" heght="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
+    <img align="center" alt="Juliano-Myslq" heght="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
+    <img align="center" alt="Juliano-Linux" heght="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />
+    <img align="center" alt="Juliano-Ubunto" heght="30" width="40" src="https://icongr.am/devicon/ubuntu-plain.svg?size=128&color=currentColor" />
 <div/>
 
 ##
