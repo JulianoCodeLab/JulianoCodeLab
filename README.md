@@ -3,15 +3,34 @@
 
 - 🔭 I currently work with infrastructure and network security.
 - 🌱 I study analysis and systems development.
-    
-<div>
   
-  <a href= "https://github.com/JulianoCodeLab">
-    <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoCodeLab&show_icons=true&theme=dark&include_all_commits=true&count_private=True"/>
-    <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCodeLab&layout=compact&langs_count=16&theme=dark"/>
+<div>
+  <a href="https://github.com/JulianoCodeLab">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoCodeLab&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCodeLab&layout=compact&langs_count=16&theme=dark"/>
+  </a>
 </div>
 
 ##
+
+<div>
+    <img align="center" alt="Juliano-Py" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+    <img align="center" alt="Juliano-ipynb" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+    <img align="center" alt="Juliano-JAVA" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+    <img align="center" alt="Juliano-Myslq" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+    <img align="center" alt="Juliano-Linux" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+    <img align="center" alt="Juliano-Ubunto" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+              
+
+<div/>
+          
+          
+    
+          
+          
+
+
+
 
 <div>
 <a href = "mailto:gestaojuliano99@gmail.com" ><img margin top = "50" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
