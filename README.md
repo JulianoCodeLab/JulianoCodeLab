@@ -20,17 +20,9 @@
     <img align="center" alt="Juliano-Myslq" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
     <img align="center" alt="Juliano-Linux" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
     <img align="center" alt="Juliano-Ubunto" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-              
-
 <div/>
-          
-          
-    
-          
-          
 
-
-
+##
 
 <div>
 <a href = "mailto:gestaojuliano99@gmail.com" ><img margin top = "50" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
