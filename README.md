@@ -1,8 +1,5 @@
 ### Hello, I'm Juliano! 👋
 
-
-- 🔭 I currently work with infrastructure and network security.
-- 🌱 I study analysis and systems development.
   
 <div>
   <a href="https://github.com/JulianoCodeLab">
