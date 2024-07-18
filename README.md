@@ -3,19 +3,13 @@
 
 - 🔭 I currently work with infrastructure and network security.
 - 🌱 I study analysis and systems development.
-<div>
-  
-  <a href= "https://github.com/JulianoCodeLab">
-    <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoCodeLab&show_icons=true&theme=dark&include_all_commits=true&count_private=True"/>
-    <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCodeLab&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
     
 <div>
-    <img align = "center" alt = "J-CPP" height = "50" Wwidth = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <img  align = "center" alt = "J-C" height = "50" Wwidth = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img align = "center" alt = "J-Java" height = "50" Wwidth = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img align = "center" alt = "J-Python" height = "50" Wwidth = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-    <img align = "center" alt = "J- MySql" height = "50" Wwidth = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />                          
+  <a href="https://github.com/JulianoCodeLab">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoCodeLab&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoCodeLab&layout=compact&langs_count=16&theme=dark"/>
+  </a>
 </div>
 
 ##
