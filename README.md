@@ -18,7 +18,6 @@
     <img align="center" alt="Juliano-JAVA" heght="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
     <img align="center" alt="Juliano-py" heght="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
     <img align="center" alt="Juliano-Myslq" heght="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
-    <img align="center" alt="Juliano-atom" heght="30" width="40" src="https://icongr.am/devicon/atom-original.svg?size=128&color=currentColor" />
     <img align="center" alt="Juliano-Linux" heght="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />
     <img align="center" alt="Juliano-Ubunto" heght="30" width="40" src="https://icongr.am/devicon/ubuntu-plain.svg?size=128&color=currentColor" />
 <div/>
