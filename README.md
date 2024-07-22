@@ -12,6 +12,7 @@
 
 <div>
     <img align="center" alt="Juliano.html" heght="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
+    <img align="center" alt="Juliano.html" heght="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
     <img align="center" alt="Juliano.css" heght="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
     <img align="center" alt="Juliano.c" heght="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" />
     <img align="center" alt="Juliano.cpp" heght="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" />
