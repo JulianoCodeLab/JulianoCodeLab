@@ -11,6 +11,8 @@
 ##
 
 <div>
+    <img align="center" alt="Juliano-Ubunto" heght="30" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
+    <img align="center" alt="Juliano-Ubunto" heght="30" width="40" src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" />
     <img align="center" alt="Juliano.html" heght="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
     <img align="center" alt="Juliano.css" heght="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
     <img align="center" alt="Juliano.c" heght="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" />
@@ -20,8 +22,6 @@
     <img align="center" alt="Juliano-Myslq" heght="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
     <img align="center" alt="Juliano-Linux" heght="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />
     <img align="center" alt="Juliano-Ubunto" heght="30" width="40" src="https://icongr.am/devicon/ubuntu-plain.svg?size=128&color=currentColor" />
-    <img align="center" alt="Juliano-Ubunto" heght="30" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
-    
 <div/>
 
 ##
