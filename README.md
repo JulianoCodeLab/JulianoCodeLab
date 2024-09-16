@@ -9,7 +9,6 @@
 </div>
 
 ##
-
 <div>
     <img align="center" alt="Juliano-Ubunto" heght="30" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
     <img align="center" alt="Juliano-Ubunto" heght="30" width="40" src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" />
